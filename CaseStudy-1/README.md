@@ -13,3 +13,10 @@ Temperature sensors are widely used in electronic equipment to display the tempe
 ## Low level requirements
 - Temperature sensor to be used.
 - Display the digital temperature using 7 segment or Lcd.
+ 
+ # Components Required
+- Resistors 
+- LM35 Temperature sensor
+- ATmega8 Microcontroller
+- 7 Segment Display/Lcd display
+- wires

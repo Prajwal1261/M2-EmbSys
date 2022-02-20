@@ -5,6 +5,7 @@ Heating controls allow you to easily regulate the temperature. The controls auto
 settings input by the user, to ensure maximum comfort. This process moves away from a fixed, traditional timer system and can therefore be used to better control the temperature say within your home.
 
 ## Block diagram
+![heat](https://user-images.githubusercontent.com/46985114/154834808-b82bc4ff-0c2d-4ac3-a2e0-07e2bb32d857.png)
 
 ## High level requirements
 - Temperature information is noted down. 

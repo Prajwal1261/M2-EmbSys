@@ -1,22 +1,24 @@
-## Temperature Sensing System
+## Distance measurement System
 
 ## Introduction
-Temperature sensors are widely used in electronic equipment to display the temperature. The temperature value is analog. Hence, we can convert it to digital value using an Analog-to-Digital Converter (ADC) and then it is displayed. One example like You can see the digital clock displaying the room temperature value as it is due to the temperature sensor embedded in it.
+Distance measuring instruments have been in use for centuries and improvements have been made in their designs with the passage of time. Today, Distance measuring instruments such as foot ruler and inches tape are obsolete and digital instruments are used for such purposes at a larger scale.
 
-## Block diagram
-![temp](https://user-images.githubusercontent.com/46985114/154834685-c7170ea4-e096-465c-a09d-6fc37ceb53d6.png)
+Here Ultrasonic sensors based distance measuring is used to provide ease. Since the design is based on embedded systems and the whole process is controlled by a microcontroller, many features can be added to it. 
+
+## Research
+https://circuitspedia.com/arduino-ultrasonic-sensor-code/
 
 ## High level requirements
-- Capturing the temperature.
-- display the captured temperature.
+- Collecting the information of objects distance.
+- Displaying the distance (in cms) of the object.
 
 ## Low level requirements
-- Temperature sensor to be used.
-- Display the digital temperature using 7 segment or Lcd.
- 
- # Components Required
-- Resistors 
-- LM35 Temperature sensor
-- ATmega8 Microcontroller
-- 7 Segment Display/Lcd display
-- wires
+- Ultrasonic sensor to be used to collect the information.
+- Display the objects distance using lcd 
+
+## Components needed
+- Arduino UNO micro controller
+- Ultrasonic sensor SR04
+- 16×2 LCD (HDD44780 driver based)
+- Potentiometer 10k ohm
+- Wires

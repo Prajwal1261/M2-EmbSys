@@ -1,4 +1,4 @@
-## Distance measurement System
+## Distance measurement System using ultrasonic sensor
 
 ## Introduction
 Distance measuring instruments have been in use for centuries and improvements have been made in their designs with the passage of time. Today, Distance measuring instruments such as foot ruler and inches tape are obsolete and digital instruments are used for such purposes at a larger scale.
@@ -22,3 +22,7 @@ https://circuitspedia.com/arduino-ultrasonic-sensor-code/
 - 16×2 LCD (HDD44780 driver based)
 - Potentiometer 10k ohm
 - Wires
+- Ground
+
+## SWOT Analysis
+![m2](https://user-images.githubusercontent.com/46985114/156924480-75c9e167-52b9-42f5-af3c-6abc62ee4fa7.PNG)

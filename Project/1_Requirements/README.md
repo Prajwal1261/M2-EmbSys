@@ -1,28 +1,34 @@
-## Distance measurement System using ultrasonic sensor
+## Automatic door opening and closing system
 
 ## Introduction
-Distance measuring instruments have been in use for centuries and improvements have been made in their designs with the passage of time. Today, Distance measuring instruments such as foot ruler and inches tape are obsolete and digital instruments are used for such purposes at a larger scale.
+The project talks about automatic opening and closing of door which will sense the person or object approaching door and open automatically. Systems and methods are very common in the art for opening and closing doors to enter and exit buildings, facilities etc. Automatic doors are commonly found in retail stores, supermarkets etc.
 
-Here Ultrasonic sensors based distance measuring is used to provide ease. Since the design is based on embedded systems and the whole process is controlled by a microcontroller, many features can be added to it. 
+Here Ultrasonic sensor is been used for sensing the person or object to open/close the door automatically. This system is controlled by Arduino micro controller
 
 ## Research
 https://circuitspedia.com/arduino-ultrasonic-sensor-code/
+https://www.instructables.com/Automatic-Door-Opening-Using-Arduino-HRSC04-Ultras/
 
 ## High level requirements
-- Collecting the information of objects distance.
-- Displaying the distance (in cms) of the object.
+- Sensing the information of the persons distance.
+- opening the door according to the distance of the person.
 
 ## Low level requirements
-- Ultrasonic sensor to be used to collect the information.
-- Display the objects distance using lcd 
+- Ultrasonic sensor to be used to sense the information.
+- Display the persons or objects distance using lcd .
+- Led ON indicating the door is opened.
+- Led OFF indicating the door is closed.
 
-## Components needed
+## Components used
 - Arduino UNO micro controller
 - Ultrasonic sensor SR04
 - 16×2 LCD (HDD44780 driver based)
 - Potentiometer 10k ohm
 - Wires
+- Led
+- Resistor 500 ohm
 - Ground
 
 ## SWOT Analysis
-![m2](https://user-images.githubusercontent.com/46985114/156924480-75c9e167-52b9-42f5-af3c-6abc62ee4fa7.PNG)
+![m2_1](https://user-images.githubusercontent.com/46985114/156924726-90295d7a-f169-45f6-a52a-0c8c29894f73.PNG)
+

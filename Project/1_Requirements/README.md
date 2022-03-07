@@ -26,7 +26,7 @@ Here Ultrasonic sensor is been used for sensing the person or object to open/clo
 - Potentiometer 10k ohm
 - Wires
 - Led
-- Resistor 500 ohm
+- Resistor 100 ohm
 - Ground
 
 ## SWOT Analysis

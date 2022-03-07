@@ -11,7 +11,7 @@ Here Ultrasonic sensor is been used for sensing the person or object to open/clo
 
 ## High level requirements
 - Sensing the information of the persons distance.
-- Opening the door according to the distance of the person.
+- Opening and closing of the door according to the distance of the person.
 
 ## Low level requirements
 - Ultrasonic sensor to be used to sense the information.

@@ -9,6 +9,8 @@ Here Ultrasonic sensor is been used for sensing the person or object to open/clo
 - https://circuitspedia.com/arduino-ultrasonic-sensor-code/
 - https://www.instructables.com/Automatic-Door-Opening-Using-Arduino-HRSC04-Ultras/
 
+The Project is performed using arduino UNO microcontroller using above references.
+
 ## High level requirements
 - Sensing the information of the persons distance.
 - Opening and closing of the door according to the distance of the person.
@@ -30,4 +32,17 @@ Here Ultrasonic sensor is been used for sensing the person or object to open/clo
 
 ## SWOT Analysis
 ![m2_1](https://user-images.githubusercontent.com/46985114/156924726-90295d7a-f169-45f6-a52a-0c8c29894f73.PNG)
+
+## 4W's & 1H
+### Who
+- Person or any kind of object can be detected.
+### What
+- This is a utility application to determine persons distance and automate the door accordingly.
+### When
+- While person/object approaching near the door.
+### Where
+- Automatic doors found in retail stores, supermarkets etc.
+### How
+- Developed using Arduino UNO and implemented on simulIDE.
+
 

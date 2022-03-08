@@ -9,6 +9,8 @@ Here Ultrasonic sensor is been used for sensing the person or object to open/clo
 ##### code grade
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9706f4cc06ca4e06b3dfb15f58ccd5b4)](https://www.codacy.com/gh/Prajwal1261/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prajwal1261/M2-EmbSys&amp;utm_campaign=Badge_Grade)
 
+- [![cppcheck-action](https://github.com/Prajwal1261/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prajwal1261/M2-EmbSys/actions/workflows/cppcheck.yml)
+
 
 ### Folder Structure
 Folder               | Description

@@ -16,7 +16,7 @@ settings input by the user, to ensure maximum comfort. This process moves away f
 - The digital value of temperature is visualized using Pulse Width Modulation(PWM).
 
 ## Components needed
-- ATmega328 Microcon1troller
+- ATmega328 Microcontroller
 - Switch button	
 - LED	
 - Resistor	

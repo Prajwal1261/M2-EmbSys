@@ -1,22 +1,35 @@
-## Temperature Sensing System
+## Automatic door opening and closing system
 
 ## Introduction
-Temperature sensors are widely used in electronic equipment to display the temperature. The temperature value is analog. Hence, we can convert it to digital value using an Analog-to-Digital Converter (ADC) and then it is displayed. One example like You can see the digital clock displaying the room temperature value as it is due to the temperature sensor embedded in it.
+The project talks about automatic opening and closing of door which will sense the person or object approaching near the door and open automatically. Systems and methods are very common in the art for opening and closing doors to enter and exit buildings, facilities etc. Automatic doors are commonly found in retail stores, supermarkets etc.
+
+Here Ultrasonic sensor is been used for sensing the person or object to open/close the door automatically. This system is controlled by Arduino micro controller. Use of led indicating the opening and closing of the door.
+
+## Research
+- https://circuitspedia.com/arduino-ultrasonic-sensor-code/
 
 ## Block diagram
-![temp](https://user-images.githubusercontent.com/46985114/154834685-c7170ea4-e096-465c-a09d-6fc37ceb53d6.png)
+![door2](https://user-images.githubusercontent.com/46985114/157031726-d55c100b-2b46-4f85-969d-89dd88048ecd.png)
 
 ## High level requirements
-- Capturing the temperature.
-- display the captured temperature.
+- Sensing the information of the persons distance.
+- Opening and closing of the door according to the distance of the person.
 
 ## Low level requirements
-- Temperature sensor to be used.
-- Display the digital temperature using 7 segment or Lcd.
- 
- # Components Required
-- Resistors 
-- LM35 Temperature sensor
-- ATmega8 Microcontroller
-- 7 Segment Display/Lcd display
-- wires
+- Ultrasonic sensor to be used to sense the information.
+- Display the persons or objects distance using lcd.
+- Led ON indicating the door is opened.
+- Led OFF indicating the door is closed.
+
+## Components used
+- Arduino UNO micro controller
+- Ultrasonic sensor SR04
+- 16×2 LCD (HDD44780 driver based)
+- Potentiometer 10k ohm
+- Led
+- Resistor 100 ohm
+- Ground
+
+## SWOT Analysis
+![m2_1](https://user-images.githubusercontent.com/46985114/156924726-90295d7a-f169-45f6-a52a-0c8c29894f73.PNG)
+

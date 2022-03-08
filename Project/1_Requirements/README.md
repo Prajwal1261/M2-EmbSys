@@ -24,7 +24,6 @@ Here Ultrasonic sensor is been used for sensing the person or object to open/clo
 - Ultrasonic sensor SR04
 - 16×2 LCD (HDD44780 driver based)
 - Potentiometer 10k ohm
-- Wires
 - Led
 - Resistor 100 ohm
 - Ground

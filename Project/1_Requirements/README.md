@@ -15,7 +15,7 @@ Here Ultrasonic sensor is been used for sensing the person or object to open/clo
 
 ## Low level requirements
 - Ultrasonic sensor to be used to sense the information.
-- Display the persons or objects distance using lcd .
+- Display the persons or objects distance using lcd.
 - Led ON indicating the door is opened.
 - Led OFF indicating the door is closed.
 
